@@ -5,8 +5,12 @@ This is a **rebuilt version of Clash of Clans** with **protection removed**, bas
 
 The goal of this repo is to share a repacked version, making it easier for users to install and play without manually patching the game.  
 
+## Latest Repack
+- **Version:** v17.18.5
+- **Repack Date:** 18/03/2025  
+
 ## How to Use
-1. **Download the IPA file** from [Releases](https://github.com/YOUR-USERNAME/Supercell-jailbreak/releases).
+1. **Download the IPA file** from [Releases](https://github.com/lethanhofficial/coc_repacked/releases).
 2. **Install it** using tools like Sideloadly, TrollStore, or AltStore.
 3. **Enjoy the game without restrictions!** 🚀  
 
@@ -15,7 +19,7 @@ Special thanks to [Risporce](https://github.com/risporce) for creating the scrip
 This repo only serves to repack and distribute the patched IPA.  
 
 All credit goes to risporce and their contributors. If you're interested in how the script works, check out the original repo:  
-🔗 **[:3](https://github.com/risporce/Supercell-jailbreak)**  
+🔗 **[Supercell-jailbreak by risporce](https://github.com/risporce/Supercell-jailbreak)**  
 
 ## Disclaimer
 - **This repo does not contain the original IPA**, only the repacked version.  
