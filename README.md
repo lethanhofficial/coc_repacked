@@ -1,4 +1,4 @@
-# Supercell Jailbreak - Repacked Clash of Clans IPA
+# Supercell Jailbreak - Repacked Clash of Clans IPA 🇻🇳
 
 ## Introduction
 This is a **rebuilt version of Clash of Clans** with **protection removed**, based on the tool created by [Risporce](https://github.com/risporce/Supercell-jailbreak).  
