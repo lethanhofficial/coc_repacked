@@ -11,11 +11,11 @@ The goal of this repo is to share a repacked version, making it easier for users
 3. **Enjoy the game without restrictions!** 🚀  
 
 ## Credits
-Special thanks to [risporce](https://github.com/risporce) for creating the script that removes the game's protection.  
+Special thanks to [Risporce](https://github.com/risporce) for creating the script that removes the game's protection.  
 This repo only serves to repack and distribute the patched IPA.  
 
 All credit goes to risporce and their contributors. If you're interested in how the script works, check out the original repo:  
-🔗 **[Supercell-jailbreak by risporce](https://github.com/risporce/Supercell-jailbreak)**  
+🔗 **[:3](https://github.com/risporce/Supercell-jailbreak)**  
 
 ## Disclaimer
 - **This repo does not contain the original IPA**, only the repacked version.  
